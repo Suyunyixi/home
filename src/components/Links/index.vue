@@ -69,11 +69,11 @@ let linksData = [
     name: "Chat",
     link: "http://54.169.135.226:3002/",
   },
-  // {
-  //   icon: Compass,
-  //   name: "起始页",
-  //   link: "https://nav.imsyy.top/",
-  // },
+  {
+    icon: Compass,
+    name: "Qwerty",
+    link: "https://www.qwerty.suyunyixi.club",
+  },
   // {
   //   icon: Book,
   //   name: "网址集",
